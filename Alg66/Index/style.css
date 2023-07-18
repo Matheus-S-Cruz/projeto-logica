@@ -1,0 +1,30 @@
+@import url('https://fonts.cdnfonts.com/css/cascadia-code');
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  width: 165px;
+  height: 62px;
+  font-size: 17px;
+  border-radius: 1rem;
+  border: none;
+  position: relative;
+  color: #100720;
+  background-color: #fff;
+  text-align: center;
+ text-shadow: 1px 1px 1px rgb(53, 116, 252);
+ background-color: rgb(53, 116, 252);
+}
+
+body {
+  background-color: #100720;
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Cascadia Code', sans-serif;
+}
+
+.imagem {
+  
+}
